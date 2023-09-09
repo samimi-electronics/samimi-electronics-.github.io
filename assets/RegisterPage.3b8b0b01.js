@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.143ebb67.js";import{ad as a,S as r,U as t,V as s,Y as c}from"./index.f39e1cd6.js";const o={};function n(_,f){return r(),t(e,null,{default:s(()=>[c(" Register Page ")]),_:1})}var l=a(o,[["render",n]]);export{l as default};

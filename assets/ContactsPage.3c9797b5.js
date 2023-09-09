@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.143ebb67.js";import{ad as e,S as t,U as c,V as r,Y as s}from"./index.f39e1cd6.js";const o={};function n(_,f){return t(),c(a,{class:"q-ma-md"},{default:r(()=>[s(" Contacts ")]),_:1})}var i=e(o,[["render",n]]);export{i as default};

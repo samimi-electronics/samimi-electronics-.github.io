@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.143ebb67.js";import{ad as a,S as t,U as r,V as s,Y as o}from"./index.f39e1cd6.js";const c={};function _(f,n){return t(),r(e,{class:"q-ma-md"},{default:s(()=>[o(" Store Page List ")]),_:1})}var m=a(c,[["render",_]]);export{m as default};
